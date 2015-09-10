@@ -1,0 +1,398 @@
+@charset "UTF-8";
+
+/* Valores por defecto */
+
+/*.ui-dialog .ui-state-error { padding: .3em; }
+.validateTips { border: 1px solid transparent; padding: 0.3em; }*/
+	
+/* Formulario nueva sonda */
+
+/*#tabs_form_new_sonda {
+    border: none;
+    padding: 0;
+*/
+
+.form_sonda .input {
+	color: #5A698B;
+	margin: 3px 0px 0px 0px;
+	padding: 6px;
+}
+
+.form_sonda fieldset {
+	width: 100%;
+}
+
+.form_sonda .col1 {
+	text-align: left;
+	height: 30px;
+	width: 30%;
+	float: left;
+	margin-left: 24px;
+	margin-top: 8px;
+	margin-bottom: -8px;
+}
+
+.form_sonda .col2 {
+	width: 60%;
+	height: 31px;
+	display: block;
+	float: left;
+	margin: 0;
+}
+
+.form_sonda .col2comment {
+	width: 60%;
+	margin: 0;
+	display: block;
+	float: left;
+}
+
+.form_sonda .col1comment {
+	text-align: left;
+	width: 30%;
+	float: left;
+	display: block;
+	margin-left: 24px;
+	margin-top: 8px;
+	margin-bottom: -8px;
+}
+
+.form_sonda div.row {
+	clear: both;
+	width: 100%;
+	border-top: 1px solid #ddd;
+}
+
+.form_bsw fieldset {
+	width: 100%;
+}
+
+.form_bsw .col1 {
+	text-align: left;
+	height: 31px;
+	margin: 0;
+	float: left;
+	margin-left: 5px;
+	margin-top: 8px;
+	margin-bottom: -8px;
+}
+
+.form_bsw .col2 {
+	height: 31px;
+	display: block;
+	float: right;
+	margin: 0;
+	margin-right: 17px;
+}
+
+.form_bsw .long {
+	width: 80%;
+}
+
+.form_bsw .short {
+	width: 50%;
+}
+
+.form_bsw .small {
+	width: 10%;
+}
+
+.form_bsw .col2comment {
+	width: 50%;
+	height: 98px;
+	margin: 0;
+	display: block;
+	float: right;
+	margin-right: 17px;
+}
+
+.form_bsw .col1comment {
+	text-align: right;
+	width: auto;
+	height: 98px;
+	float: left;
+	display: block;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.form_bsw div.row {
+	clear: both;
+	width: 100%;
+	border-top: 1px solid #ddd;
+}
+
+.form_bsw .input {
+	color: #5A698B;
+	margin: 3px 0px 0px 0px;
+	padding: 6px;
+}
+
+.form_bsw .select {
+	border: 1px solid #8595B2;
+	background-color: #fff;
+	color: #5A698B;
+	margin:4px 0 0px 0px;
+	width: 100%;
+	height: 23px;
+}
+
+.form_bsw select {
+	border: 1px solid #8595B2;
+	background-color: #fff;
+	color: #5A698B;
+	margin:4px 0 0px 0px;
+	width: 100%;
+	height: 23px;
+}
+
+.input-basic {
+	color: #5A698B;
+	margin: 3px 0px 0px 0px;
+	padding: 6px;
+}
+
+.input-long {
+	width: 210px;	
+}
+
+.input-short {
+	width: 35px;	
+}
+
+.input-medium-length {
+	width: 180px;	
+}
+
+.inputUI {
+    font: inherit;
+    color: inherit;
+    text-align: inherit;
+    outline: none;
+    cursor: text;
+    height:10px;
+}
+
+.form_sonda .textarea {
+	border: 1px solid #8595B2;
+	background-color: #fff;
+	color: #5A698B;
+	margin:4px 0 0px 0px;
+	width: 99.6%;
+}
+
+.form_sonda .select {
+	border: 1px solid #8595B2;
+	background-color: #fff;
+	color: #5A698B;
+	margin:4px 0 0px 0px;
+	width: 100%;
+	height: 23px;
+}
+
+.form_sonda .checkbox {
+	border: 1px solid #8595B2;
+	background-color: #fff;
+	color: #5A698B;
+	margin:4px 0 0px 0px;
+	height: 20px;
+}
+
+#demo ul { list-style-type: none; margin: 0; padding: 0; margin-bottom: 10px; }
+#demo li { margin: 5px; padding: 5px; width: 150px; }
+
+.monitor_groupid_1 {
+    width:49%;
+    border:1px solid gray;
+    height:auto;
+    float:left;
+    margin-right:5px;
+    min-height: 150px;
+}
+
+.monitor_groupid_2 {
+    width:49%;
+    border:1px solid gray;
+    height:auto;
+    float:right;
+    margin-right:5px;
+    min-height: 150px;
+}
+
+.ui-combobox {
+	position: relative;
+	display: inline-block;
+}
+.ui-combobox-toggle {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin-left: -1px;
+	padding: 0;
+	/* adjust styles for IE 6/7 */
+	*height: 1.7em;
+	*top: 0.1em;
+}
+.ui-combobox-input {
+	margin: 0;
+	padding: 0.3em;
+	min-width: 510px;
+}
+
+.bsw_table table{
+	width: 100%;
+}
+
+.bsw_table table td{
+	text-align: center;
+}
+
+.bsw_table2 td {
+	padding-left: 6px;
+}
+
+
+/* FORM SIMPLE */
+
+
+.formUI fieldset {
+    /*margin-top: 9px;*/
+    border: none;
+   /* padding-bottom: 10px;*/
+}
+
+.formUI legend {
+    letter-spacing: 1px;
+    padding: 1px 31px;
+    margin-bottom: 3px;
+}
+
+.formUI div.row {
+    clear: both;
+    width: 100%;
+    background-color:#FFFFFF;
+    border: 1px solid #ddd;
+    min-height: 40px;
+    margin-bottom: 2px;
+    border-radius: 6px;
+}
+
+.formUI div.rowC {
+    clear: both;
+    width: 100%;
+    background-color:#FFFFFF;
+    border: 1px solid #ddd;
+    min-height: 113px;
+    margin-bottom: 2px;
+    border-radius: 6px;
+}
+
+.formUI div.title {
+    clear: both;
+    width: 100%;
+    background: #428bca;
+    border-radius: 6px;
+    margin-bottom: 2px;
+    text-align: center;
+    font-size: 20px;
+    padding: 9px;
+}
+
+.formUI div.title span{
+    color: #fff;
+    font-weight: bold;
+    font-size: 75%;
+}
+
+.formUI .col1 {
+    text-align: left;
+    float: left;
+    margin: 9px;
+}
+
+.formUI .col2 {
+    display: block;
+    float: right;
+    margin: 0px 7px 0px 0px;
+    text-align: right;
+}
+
+.formUI .pshort {
+    width: 30%;
+}
+
+.formUI span.col2 ul.tagit {
+    margin: 3px;
+}
+
+.formUI .pmedium {
+    width: 50%;
+}
+
+.formUI .plong {
+    width: 80%;
+}
+
+.formUI .short {
+    width: 70px!important;
+}
+
+.formUI .medium {
+    width: 180px!important;
+}
+
+.formUI .large {
+    width: 210px!important;
+}
+
+.formUI .verylarge {
+    width: 410px!important;
+}
+
+.formUI .set input {
+    width: 80%;
+}
+
+.formUI div.uix-multiselect {
+    padding: 0px;
+    margin: 11px;
+}
+
+.formUI .input {
+    color: #5A698B;
+    margin: 2px 0px 0px 0px;
+    padding: 6px;
+}
+
+.formUI .textarea {
+    border: 1px solid #8595B2;
+    padding: 4px;
+    background-color: #fff;
+    color: #5A698B;
+    margin:4px 0 0px 0px;
+    height: 100px;
+    min-width: 100px;
+    max-width: 500px;
+    min-height: 100px;
+    max-height: 300px;
+}
+
+.formUI .select {
+    padding: 5px;
+    height: 28px;
+    margin: 6px 0px;
+    border: 1px solid #ccc;
+    max-width: 400px
+}
+
+.formUI .validateTips {
+    margin-bottom: 8px;
+} 
+
+.formUI .checkbox {
+    border: 1px solid #8595B2;
+    background-color: #fff;
+    color: #5A698B;
+    margin:4px 0 0px 0px;
+    height: 20px;
+}

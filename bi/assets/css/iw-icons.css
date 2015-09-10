@@ -1,0 +1,130 @@
+/*  Font Intraway Icons
+    the iconic font designed for use with Intraway Modular Apps
+    -----------------------------------------------------------
+*/
+@font-face {
+    font-family:'RomiDesignTeamRegular';
+    src:url('../fonts/iw-webfont.eot');
+    /*
+    src: url('../fonts/iw-webfont.eot?#iefix') format('eot'), url('../fonts/iw-webfont.woff') format('woff'), url('../fonts/iw-webfont.ttf') format('truetype'), url('../fonts/iw-webfont.svg#FontAwesome') format('svg');
+    */
+    src: url('../fonts/iw-webfont.ttf') format('truetype'), url('../../fonts/iw-webfont.svg#FontAwesome') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*  Font Intraway Icons styles
+    ------------------------------------------------------- */
+
+[class^="iconiw-"]:before, [class*=" iconiw-"]:before {
+  font-family: RomiDesignTeamRegular;
+  font-size: 3em;
+  font-weight: normal;
+  font-style: normal;
+  color: #777;
+  text-decoration: inherit;
+  overflow: hidden;
+  line-height: 45px;
+}
+
+[class^="logo-"]:before, [class*=" logo-"]:before {
+  float: left;
+  /*width: 40px;*/
+  font-family: RomiDesignTeamRegular;
+  color: white;
+  font-size: 2em;
+  line-height: 20px;
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.25);
+  opacity: 0.8;
+  padding-top: 4px \0/;
+  margin-bottom: -5px \0/;
+}
+
+a [class^="iconiw-"], a [class*=" iconiw-"] {
+  text-decoration: inherit;
+}
+/* makes the font 33% larger relative to the icon container */
+.iconiw-large:before {
+  vertical-align: top;
+  font-size: 1.6666666666666666em;
+  margin-top: 8px;
+  margin-left: 2px;
+}
+.btn [class^="iconiw-"], .btn [class*=" iconiw-"] {
+  /* keeps button heights with and without icons the same */
+
+  line-height: .9em;
+}
+li [class^="iconiw-"], li [class*=" iconiw-"] {
+  display: inline-block;
+  width: 1.25em;
+  text-align: center;
+}
+li .iconiw-large[class^="iconiw-"], li .iconiw-large[class*=" iconiw-"] {
+  /* 1.5 increased font size for iconiw-large * 1.25 width */
+
+  width: 1.875em;
+}
+li[class^="iconiw-"], li[class*=" iconiw-"] {
+  margin-left: 0;
+  list-style-type: none;
+}
+li[class^="iconiw-"]:before, li[class*=" iconiw-"]:before {
+  text-indent: -2em;
+  text-align: center;
+}
+li[class^="iconiw-"].iconiw-large:before, li[class*=" iconiw-"].iconiw-large:before {
+  text-indent: -1.3333333333333333em;
+}
+/*  Uses the Unicode Private Use Area (PUA) to ensure screen
+    readers do not read off random characters that represent icons */
+
+/*LOGO IW*/
+.logo-iwheader:before                                 { content: "\0069"; }
+
+/*CAPTIVE PORTAL*/
+.iconiw-MessageTemplates:before                       { content: "\0064"; }
+.iconiw-DeviceMessagesManagement:before               { content: "\0062"; }
+.iconiw-MessageScheduling:before                      { content: "\0071"; }
+.iconiw-RealtimeCaptivePortalMonitor:before           { content: "\006D"; }
+
+/*FIRMWARE UPDATE*/
+.iconiw-FirmwareUpdatePolicies:before                 { content: "\0043"; }
+.iconiw-FirmwareUpdateScheduling:before               { content: "\0073"; }
+.iconiw-NetworkSettings:before                        { content: "\006f"; }
+.iconiw-FirmwareAuthorizationManagement:before        { content: "\006B"; }
+.iconiw-RealtimeStatusMonitor:before                  { content: "\006D"; }
+.iconiw-EventViewer:before                            { content: "\0076"; }
+.iconiw-ProgrammedTaskReport:before                   { content: "\0070"; }
+.iconiw-ProgrammedTaskWeeklySchedule:before           { content: "\0077"; }
+.iconiw-CPEReport:before                              { content: "\0063"; }
+.iconiw-CPESummary:before                             { content: "\0061"; }
+.iconiw-UsageMetrics:before                           { content: "\0075"; }
+.iconiw-UnauthorizedFirmwareReport:before             { content: "\0066"; }
+.iconiw-NetworkCollectorTopology:before               { content: "\006E"; }
+.iconiw-CMTSUpgradesReport:before                     { content: "\0067"; }
+
+/*FRAUD CONTROL*/
+.iconiw-ClonedDevices:before                          { content: "\0072"; }
+.iconiw-FraudControlSettings:before                   { content: "\0078"; }
+.iconiw-RealtimeFraudControlMonitor:before            { content: "\006D"; }
+.iconiw-ClonedDevicesSummary:before                   { content: "\006A"; }
+.iconiw-Watchlist:before                              { content: "\0068"; }
+
+/*IP VERSION SELECTION*/
+.iconiw-CMIPVersionSelectionSettings:before           { content: "\007A"; }
+.iconiw-CPEIPVersionSelectionSettings:before          { content: "\0079"; }
+.iconiw-CMTSIPVersionSelectionOverrideSettings:before { content: "\0041"; }
+.iconiw-CMIPVersionSelectionSupportReport:before      { content: "\0042"; }
+
+/*SUPPORT TOOL*/
+.iconiw-DeviceInfoandSupport:before                   { content: "\0045"; }
+.iconiw-CustomerImportSettings:before                 { content: "\0046"; }
+.iconiw-SignalLevelsSettings:before                   { content: "\0044"; }
+
+/*SETTINGS*/
+.iconiw-Users:before                                  { content: "\0047"; }
+.iconiw-Profiles:before                               { content: "\0048"; }
+.iconiw-DefaultSettings:before                        { content: "\0049"; }
+.iconiw-TFTPGroups:before                             { content: "\004A"; }
+.iconiw-RegionsManagement:before                      { content: "\004B"; }

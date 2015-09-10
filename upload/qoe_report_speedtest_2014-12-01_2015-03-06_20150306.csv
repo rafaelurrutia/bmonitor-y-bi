@@ -1,0 +1,4 @@
+ip;city;region;country;isp;latitude;longitude;testDate;serverName;download;upload;latency;browser;operatingSystem;userAgent
+190.232.9.25;0;;;;0,0000000;0,0000000;"02/12/2014 01:47:59";"Speedtest.net Telefonica Peru";69396;6902;1;"Internet Explorer 9.0";"Windows 7 Home";
+190.232.9.25;0;;;;0,0000000;0,0000000;"02/12/2014 02:24:20";"Speedtest.net Telefonica Peru";65720;6748;1;"Internet Explorer 9.0";"Windows 7 Home";
+190.232.9.25;0;;;;0,0000000;0,0000000;"10/12/2014 15:36:07";"Speedtest.net Telefonica Peru";65853;6656;1;"Internet Explorer 9.0";"Windows 7 Home";

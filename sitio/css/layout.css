@@ -1,0 +1,242 @@
+*, *:before, *:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+html {
+	font-size: 62.5%;
+	-webkit-tap-highlight-color: rgba(0,0,0,0)
+}
+
+body {
+	margin: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	line-height: 20px;
+	color: #555;
+	background-color: #f5f5f5
+}
+input, button, select, textarea {
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit
+}
+
+a:focus {
+	outline: thin dotted #333;
+	outline: 5px auto -webkit-focus-ring-color;
+	outline-offset: -2px;
+}
+a:hover, a:active {
+	outline: 0;
+}
+
+a {
+	color: #0088cc;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #005580;
+	text-decoration: underline;
+}
+
+h2.title {
+	display: block;
+	width: 100%;
+	padding: 0;
+	margin-bottom: 20px;
+	font-size: 21px;
+	line-height: inherit;
+	color: #555;
+	border: 0;
+	border-bottom: 1px solid #e5e5e5;
+	text-align: center;
+}
+
+.container {
+	width: 100%;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -50px;
+	position: relative;
+}
+
+.push {
+	height: 50px;
+}
+
+.footer {
+	height: 50px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	z-index: 99;
+}
+
+.footer a {
+	padding: 14px 17px;
+	font-size: 12px;
+	float: left;
+	width: 25%;
+}
+
+.footer .logo {
+	padding: 0px 0px;
+	width: 30%;
+	float: left;
+	text-align: right;
+}
+
+html {
+	/*color: #000;
+	background: #FFF*/
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+fieldset, img {
+	border: 0
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+	font-style: normal;
+	font-weight: normal
+}
+ol, ul {
+	list-style: none
+}
+caption, th {
+	text-align: left
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: normal
+}
+q:before, q:after {
+	content: ''
+}
+abbr, acronym {
+	border: 0;
+	font-variant: normal
+}
+sup {
+	vertical-align: text-top
+}
+sub {
+	vertical-align: text-bottom
+}
+input, textarea, select {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	*font-size: 100%
+}
+legend {
+	color: #000
+}
+
+#yui3-css-stamp.cssreset {
+	display: none
+}
+
+textarea {
+	overflow: auto;
+	vertical-align: top;
+}
+
+fieldset {
+	padding: 0;
+	margin: 0;
+	border: 0
+}
+
+legend {
+	display: block;
+	width: 100%;
+	padding: 0;
+	margin-bottom: 20px;
+	font-size: 21px;
+	line-height: inherit;
+	color: #555;
+	border: 0;
+	border-bottom: 1px solid #e5e5e5
+}
+
+label {
+	display: inline-block;
+	margin-bottom: 5px;
+	font-weight: bold
+}
+input[type="search"] {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box
+}
+input[type="radio"], input[type="checkbox"] {
+	margin: 4px 0 0;
+	margin-top: 1px \9;
+	line-height: normal
+}
+input[type="file"] {
+	display: block
+}
+select[multiple], select[size] {
+	height: auto
+}
+select optgroup {
+	font-family: inherit;
+	font-size: inherit;
+	font-style: inherit
+}
+input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focus {
+	outline: thin dotted #333;
+	outline: 5px auto -webkit-focus-ring-color;
+	outline-offset: -2px
+}
+
+.input-icon > input {
+	padding-left: 24px;
+	padding-right: 6px;
+}
+
+.input-icon.input-icon-right > input {
+	padding-left: 6px;
+	padding-right: 24px;
+}
+
+.input-icon > [class*="glyphicon-"] {
+	z-index: 2;
+	position: absolute;
+	top: 3px;
+	bottom: 1px;
+	left: 3px;
+	line-height: 28px;
+	display: inline-block;
+	color: #909090;
+	font-size: 16px;
+	padding: 0 3px;
+}
+
+.input-icon.input-icon-right > [class*="glyphicon-"] {
+	left: auto;
+	right: 3px;
+}
+
+.input-icon > input:focus+ [class*="glyphicon-"] {
+	color: #579;
+}
+
+input.block {
+	display: block;
+	margin-bottom: 9px;
+}
+

@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+  <Assembly_settings_for_Sonda.exe>
+    <AssemblyName>Sonda.exe</AssemblyName>
+    <SettingsFilePath>C:\Documents and Settings\XPVM\Mis documentos\Dropbox\02 - VBStudio\VB\Visual Studio 2010\Projects\Sonda\Bandwidth\bin\Debug\ObfuscationSettings.xml</SettingsFilePath>
+    <SourcePath>C:\Documents and Settings\XPVM\Mis documentos\Dropbox\02 - VBStudio\VB\Visual Studio 2010\Projects\Sonda\Bandwidth\bin\Debug\</SourcePath>
+    <OutputPath>C:\Documents and Settings\XPVM\Mis documentos\Dropbox\02 - VBStudio\VB\Visual Studio 2010\Projects\Sonda\Bandwidth\bin\Sonda.exe</OutputPath>
+    <Path_to_key></Path_to_key>
+    <All_Private>1</All_Private>
+    <PrivateClasses>1</PrivateClasses>
+    <PrivateMethods>1</PrivateMethods>
+    <PrivateFields>1</PrivateFields>
+    <Naming_method>0</Naming_method>
+    <Apply_PublicMembers>1</Apply_PublicMembers>
+    <Conceal_Strings>0</Conceal_Strings>
+    <CryptographyApplied>0</CryptographyApplied>
+    <Apply_ControlFlow>1</Apply_ControlFlow>
+    <Apply_Linkage>1</Apply_Linkage>
+    <Obfuscate_Locals>0</Obfuscate_Locals>
+    <Strings_for_Public>1</Strings_for_Public>
+    <Strings_for_Private>1</Strings_for_Private>
+    <PublicClasses>1</PublicClasses>
+    <PublicMethods>1</PublicMethods>
+    <PublicFields>1</PublicFields>
+    <PublicProperties>1</PublicProperties>
+    <PublicEvents>1</PublicEvents>
+    <PublicClasses_for_Privates>0</PublicClasses_for_Privates>
+    <PublicMethods_for_Privates>0</PublicMethods_for_Privates>
+    <PublicFields_for_Privates>0</PublicFields_for_Privates>
+    <PublicProperties_for_Privates>0</PublicProperties_for_Privates>
+    <PublicEvents_for_Privates>0</PublicEvents_for_Privates>
+    <ControlFlow_for_Public>1</ControlFlow_for_Public>
+    <ControlFlow_for_Private>1</ControlFlow_for_Private>
+    <ControlFlow_for_NestedClasses>0</ControlFlow_for_NestedClasses>
+    <Public_members>
+Sonda.BSW0^1^.class public auto ansi2^2603^
+ActionStatus0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_ActionStatus0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_ActionStatus0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+AVGD0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_AVGD0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_AVGD0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+BlankImage0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_BlankImage0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_BlankImage0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+Button10^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Button
+          2^03^
+get_Button10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Button 
+          2^2573^
+set_Button10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+CaptureImage0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.CheckBox
+          2^03^
+get_CaptureImage0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.CheckBox 
+          2^2573^
+set_CaptureImage0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+CX0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_CX0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_CX0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+CY0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_CY0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_CY0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+CycleSerial0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_CycleSerial0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_CycleSerial0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+DNST0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_DNST0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_DNST0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+FTPBack0^Sonda.BSW1^.property instance class [System]System.ComponentModel.BackgroundWorker
+          2^03^
+get_FTPBack0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System]System.ComponentModel.BackgroundWorker 
+          2^2573^
+set_FTPBack0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+FtpTest0^Sonda.BSW1^.method public instance void  2^2573^
+httpstatus0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_httpstatus0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_httpstatus0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+HTTPTimer0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_HTTPTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_HTTPTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+ImageRedTube0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_ImageRedTube0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_ImageRedTube0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+ImageYouPorn10^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_ImageYouPorn10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_ImageYouPorn10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+ImageYouPorn20^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_ImageYouPorn20^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_ImageYouPorn20^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+MAXDownBar0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_MAXDownBar0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_MAXDownBar0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+MAXUpBar0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_MAXUpBar0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_MAXUpBar0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+MouseIndicator0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_MouseIndicator0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_MouseIndicator0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N00^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N00^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N00^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N10^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N20^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N20^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N20^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N30^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N30^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N30^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N40^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N40^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N40^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N50^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N50^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N50^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N60^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N60^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N60^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N70^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N70^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N70^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N80^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N80^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N80^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+N90^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_N90^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_N90^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+Network0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_Network0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_Network0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+OneSecondTimer0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_OneSecondTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_OneSecondTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+OoklaTimer0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_OoklaTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_OoklaTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+Panel10^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Panel
+          2^03^
+get_Panel10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Panel 
+          2^2573^
+set_Panel10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+pbar0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripProgressBar
+          2^03^
+get_pbar0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripProgressBar 
+          2^2573^
+set_pbar0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+PictureBox10^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_PictureBox10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_PictureBox10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+PictureBox20^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_PictureBox20^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_PictureBox20^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+PictureBox30^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_PictureBox30^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_PictureBox30^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+PictureBox40^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_PictureBox40^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_PictureBox40^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+PictureHOT0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_PictureHOT0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_PictureHOT0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+PingTestLabel0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Label
+          2^03^
+get_PingTestLabel0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Label 
+          2^2573^
+set_PingTestLabel0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+PlayerEnd0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_PlayerEnd0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_PlayerEnd0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+playimg0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_playimg0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_playimg0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+ReadCM0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_ReadCM0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_ReadCM0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+SpeedNow0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_SpeedNow0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_SpeedNow0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+SpeedTestFlash0^Sonda.BSW1^.property instance class [AxInterop.ShockwaveFlashObjects]AxShockwaveFlashObjects.AxShockwaveFlash
+          2^03^
+get_SpeedTestFlash0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [AxInterop.ShockwaveFlashObjects]AxShockwaveFlashObjects.AxShockwaveFlash 
+          2^2573^
+set_SpeedTestFlash0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+SSYNC0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_SSYNC0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_SSYNC0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+StatusStrip10^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.StatusStrip
+          2^03^
+get_StatusStrip10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.StatusStrip 
+          2^2573^
+set_StatusStrip10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+StatusStrip20^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.StatusStrip
+          2^03^
+get_StatusStrip20^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.StatusStrip 
+          2^2573^
+set_StatusStrip20^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+StopAll0^Sonda.BSW1^.method public instance void  2^2573^
+StopAllTimers0^Sonda.BSW1^.method public instance void  2^2573^
+SystemTime0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_SystemTime0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_SystemTime0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+TestTimer0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_TestTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_TestTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+TimeOutTimer0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_TimeOutTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_TimeOutTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+ToolStripStatusLabel10^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_ToolStripStatusLabel10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_ToolStripStatusLabel10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+TorrentStart0^Sonda.BSW1^.method public instance void  2^2573^
+TorrentTimer0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_TorrentTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_TorrentTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+VideoLoad0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_VideoLoad0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_VideoLoad0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+VideoNameTxt0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Label
+          2^03^
+get_VideoNameTxt0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Label 
+          2^2573^
+set_VideoNameTxt0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+VIDEOPAUSE0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel
+          2^03^
+get_VIDEOPAUSE0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.ToolStripStatusLabel 
+          2^2573^
+set_VIDEOPAUSE0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+VTRSpeedtest0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_VTRSpeedtest0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_VTRSpeedtest0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+VTRSpeedtestTimer0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_VTRSpeedtestTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_VTRSpeedtestTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+WebBrowser10^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.WebBrowser
+          2^03^
+get_WebBrowser10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.WebBrowser 
+          2^2573^
+set_WebBrowser10^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+YouTubeBar010^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_YouTubeBar010^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_YouTubeBar010^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+YouTubeBar020^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_YouTubeBar020^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_YouTubeBar020^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+YouTubeBar030^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_YouTubeBar030^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_YouTubeBar030^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+YouTubeEnd010^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_YouTubeEnd010^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_YouTubeEnd010^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+YouTubeEnd020^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_YouTubeEnd020^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_YouTubeEnd020^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+YouTubeEnd030^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.PictureBox
+          2^03^
+get_YouTubeEnd030^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.PictureBox 
+          2^2573^
+set_YouTubeEnd030^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+YouTubeFlash0^Sonda.BSW1^.property instance class [AxInterop.ShockwaveFlashObjects]AxShockwaveFlashObjects.AxShockwaveFlash
+          2^03^
+get_YouTubeFlash0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [AxInterop.ShockwaveFlashObjects]AxShockwaveFlashObjects.AxShockwaveFlash 
+          2^2573^
+set_YouTubeFlash0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+YouTubeTimer0^Sonda.BSW1^.property instance class [System.Windows.Forms]System.Windows.Forms.Timer
+          2^03^
+get_YouTubeTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [System.Windows.Forms]System.Windows.Forms.Timer 
+          2^2573^
+set_YouTubeTimer0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+ZNet0^Sonda.BSW1^.property instance class [ZedGraph]ZedGraph.ZedGraphControl
+          2^03^
+get_ZNet0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance class [ZedGraph]ZedGraph.ZedGraphControl 
+          2^2573^
+set_ZNet0^Sonda.BSW1^.method assembly newslot specialname strict virtual 
+          instance void  2^2573^
+Sonda.BSWClearIECache0^1^.class private auto ansi sealed2^2603^
+Clear_Clear_Add_ons_Settings0^Sonda.BSWClearIECache1^.method public static void  2^2573^
+Clear_Cookies0^Sonda.BSWClearIECache1^.method public static void  2^2573^
+Clear_Form_Data0^Sonda.BSWClearIECache1^.method public static void  2^2573^
+Clear_History0^Sonda.BSWClearIECache1^.method public static void  2^2573^
+Clear_Saved_Passwords0^Sonda.BSWClearIECache1^.method public static void  2^2573^
+Clear_Temp_Files0^Sonda.BSWClearIECache1^.method public static void  2^2573^
+ClearCacheAll0^Sonda.BSWClearIECache1^.method public static void  2^2573^
+Sonda.BSWCM0^1^.class private auto ansi sealed beforefieldinit2^2603^
+ReadDataCM0^Sonda.BSWCM1^.method public static void  2^2573^
+Sonda.BSWCSNMP0^1^.class public auto ansi2^2603^
+AvgDown0^Sonda.BSWCSNMP1^.field public int32 2^03^
+AvgUp0^Sonda.BSWCSNMP1^.field public int32 2^03^
+Calculate0^Sonda.BSWCSNMP1^.method public instance void  2^2573^
+CorrectedErrors10^Sonda.BSWCSNMP1^.field public string 2^03^
+CorrectedErrors20^Sonda.BSWCSNMP1^.field public string 2^03^
+CorrectedErrors30^Sonda.BSWCSNMP1^.field public string 2^03^
+CorrectedErrors40^Sonda.BSWCSNMP1^.field public string 2^03^
+CorrectedErrors50^Sonda.BSWCSNMP1^.field public string 2^03^
+CorrectedErrors60^Sonda.BSWCSNMP1^.field public string 2^03^
+CorrectedErrors70^Sonda.BSWCSNMP1^.field public string 2^03^
+CorrectedErrors80^Sonda.BSWCSNMP1^.field public string 2^03^
+Description0^Sonda.BSWCSNMP1^.field public string 2^03^
+DNS0^Sonda.BSWCSNMP1^.field public int32 2^03^
+DNSTimeOut0^Sonda.BSWCSNMP1^.field public int32 2^03^
+DPower10^Sonda.BSWCSNMP1^.field public string 2^03^
+DPower20^Sonda.BSWCSNMP1^.field public string 2^03^
+DPower30^Sonda.BSWCSNMP1^.field public string 2^03^
+DPower40^Sonda.BSWCSNMP1^.field public string 2^03^
+DPower50^Sonda.BSWCSNMP1^.field public string 2^03^
+DPower60^Sonda.BSWCSNMP1^.field public string 2^03^
+DPower70^Sonda.BSWCSNMP1^.field public string 2^03^
+DPower80^Sonda.BSWCSNMP1^.field public string 2^03^
+DSNR10^Sonda.BSWCSNMP1^.field public string 2^03^
+DSNR20^Sonda.BSWCSNMP1^.field public string 2^03^
+DSNR30^Sonda.BSWCSNMP1^.field public string 2^03^
+DSNR40^Sonda.BSWCSNMP1^.field public string 2^03^
+DSNR50^Sonda.BSWCSNMP1^.field public string 2^03^
+DSNR60^Sonda.BSWCSNMP1^.field public string 2^03^
+DSNR70^Sonda.BSWCSNMP1^.field public string 2^03^
+DSNR80^Sonda.BSWCSNMP1^.field public string 2^03^
+ErrorDescription0^Sonda.BSWCSNMP1^.field public string 2^03^
+HTMLSize0^Sonda.BSWCSNMP1^.field public int32 2^03^
+IP0^Sonda.BSWCSNMP1^.field public string 2^03^
+MaxDown0^Sonda.BSWCSNMP1^.field public int32 2^03^
+MaxUp0^Sonda.BSWCSNMP1^.field public int32 2^03^
+Ping0^Sonda.BSWCSNMP1^.field public string 2^03^
+PingAvg0^Sonda.BSWCSNMP1^.field public string 2^03^
+PingJitter0^Sonda.BSWCSNMP1^.field public string 2^03^
+PingMax0^Sonda.BSWCSNMP1^.field public string 2^03^
+PingMin0^Sonda.BSWCSNMP1^.field public string 2^03^
+PingRecv0^Sonda.BSWCSNMP1^.field public string 2^03^
+PingSent0^Sonda.BSWCSNMP1^.field public string 2^03^
+Status0^Sonda.BSWCSNMP1^.field public string 2^03^
+TimeOut0^Sonda.BSWCSNMP1^.field public int32 2^03^
+TimeToLoadFirstPage0^Sonda.BSWCSNMP1^.field public int32 2^03^
+TimeToLoadPage0^Sonda.BSWCSNMP1^.field public int32 2^03^
+UncorrectedErrors10^Sonda.BSWCSNMP1^.field public string 2^03^
+UncorrectedErrors20^Sonda.BSWCSNMP1^.field public string 2^03^
+UncorrectedErrors30^Sonda.BSWCSNMP1^.field public string 2^03^
+UncorrectedErrors40^Sonda.BSWCSNMP1^.field public string 2^03^
+UncorrectedErrors50^Sonda.BSWCSNMP1^.field public string 2^03^
+UncorrectedErrors60^Sonda.BSWCSNMP1^.field public string 2^03^
+UncorrectedErrors70^Sonda.BSWCSNMP1^.field public string 2^03^
+UncorrectedErrors80^Sonda.BSWCSNMP1^.field public string 2^03^
+UPower10^Sonda.BSWCSNMP1^.field public string 2^03^
+UPower20^Sonda.BSWCSNMP1^.field public string 2^03^
+UPower30^Sonda.BSWCSNMP1^.field public string 2^03^
+UPower40^Sonda.BSWCSNMP1^.field public string 2^03^
+URL0^Sonda.BSWCSNMP1^.field public string 2^03^
+VideoDrop0^Sonda.BSWCSNMP1^.field public int32 2^03^
+VideoLength0^Sonda.BSWCSNMP1^.field public string 2^03^
+VideoRating0^Sonda.BSWCSNMP1^.field public string 2^03^
+VideoViews0^Sonda.BSWCSNMP1^.field public string 2^03^
+VideoWatched0^Sonda.BSWCSNMP1^.field public string 2^03^
+Write0^Sonda.BSWCSNMP1^.method public instance void  2^2573^
+Sonda.BSWDns0^1^.class private auto ansi sealed2^2603^
+CalculateDNS0^Sonda.BSWDns1^.method public static int32  2^2573^
+Sonda.BSWError0^1^.class private auto ansi sealed2^2603^
+WriteError0^Sonda.BSWError1^.method public static void  2^2573^
+WriteLog0^Sonda.BSWError1^.method public static void  2^2573^
+Sonda.BSWHTTPTest0^1^.class private auto ansi sealed2^2603^
+HTTPTest0^Sonda.BSWHTTPTest1^.method public static void  2^2573^
+Sonda.BSWInitialize0^1^.class private auto ansi sealed2^2603^
+Initalize0^Sonda.BSWInitialize1^.method public static void  2^2573^
+Sonda.BSWMain0^1^.class private auto ansi sealed beforefieldinit2^2603^
+ax0^Sonda.BSWMain1^.field public static class [AxInterop.ShockwaveFlashObjects]AxShockwaveFlashObjects.AxShockwaveFlash 2^03^
+KillIE0^Sonda.BSWMain1^.method public static void  2^2573^
+ProcessSerial0^Sonda.BSWMain1^.method public static void  2^2573^
+ProcessSerialSequencial0^Sonda.BSWMain1^.method public static void  2^2573^
+SYNC0^Sonda.BSWMain1^.method public static void  2^2573^
+Sonda.BSWMouse0^1^.class private auto ansi sealed beforefieldinit2^2603^
+GetCurrentX0^Sonda.BSWMouse1^.method public static int64  2^2573^
+GetCurrentY0^Sonda.BSWMouse1^.method public static int64  2^2573^
+GetMousePos0^Sonda.BSWMouse1^.method public static int64  2^2573^
+LeftClick0^Sonda.BSWMouse1^.method public static void  2^2573^
+LeftDown0^Sonda.BSWMouse1^.method public static void  2^2573^
+LeftUp0^Sonda.BSWMouse1^.method public static void  2^2573^
+MiddleClick0^Sonda.BSWMouse1^.method public static void  2^2573^
+MiddleDown0^Sonda.BSWMouse1^.method public static void  2^2573^
+MiddleUp0^Sonda.BSWMouse1^.method public static void  2^2573^
+MOUSEEVENTF_LEFTDOWN0^Sonda.BSWMouse1^.field public static literal int32 2^03^
+MOUSEEVENTF_LEFTUP0^Sonda.BSWMouse1^.field public static literal int32 2^03^
+MOUSEEVENTF_MIDDLEDOWN0^Sonda.BSWMouse1^.field public static literal int32 2^03^
+MOUSEEVENTF_MIDDLEUP0^Sonda.BSWMouse1^.field public static literal int32 2^03^
+MOUSEEVENTF_MOVE0^Sonda.BSWMouse1^.field public static literal int32 2^03^
+MOUSEEVENTF_RIGHTDOWN0^Sonda.BSWMouse1^.field public static literal int32 2^03^
+MOUSEEVENTF_RIGHTUP0^Sonda.BSWMouse1^.field public static literal int32 2^03^
+MoveMouse0^Sonda.BSWMouse1^.method public static void  2^2573^
+POINTAPI0^Sonda.BSWMouse1^.class sequential ansi sealed nested public2^2573^
+X0^Sonda.BSWMouse/POINTAPI1^.field public int64 2^03^
+Y0^Sonda.BSWMouse/POINTAPI1^.field public int64 2^03^
+RightClick0^Sonda.BSWMouse1^.method public static void  2^2573^
+RightDown0^Sonda.BSWMouse1^.method public static void  2^2573^
+RightUp0^Sonda.BSWMouse1^.method public static void  2^2573^
+SetCursor0^Sonda.BSWMouse1^.method public static void  2^2573^
+Sonda.BSWNetworkGraph0^1^.class private auto ansi sealed2^2603^
+UpdateNetworkGraph0^Sonda.BSWNetworkGraph1^.method public static void  2^2573^
+Sonda.BSWPing0^1^.class private auto ansi sealed2^2603^
+DoPing0^Sonda.BSWPing1^.method public static void  2^2573^
+Sonda.BSWTimer0^1^.class private auto ansi sealed2^2603^
+StartTimer0^Sonda.BSWTimer1^.method public static void  2^2573^
+StopTimer0^Sonda.BSWTimer1^.method public static void  2^2573^
+TimeOut0^Sonda.BSWTimer1^.method public static bool  2^2573^
+Sonda.BSWTools0^1^.class private auto ansi sealed beforefieldinit2^2603^
+AVGC0^Sonda.BSWTools1^.field public static int64 2^03^
+CalculateAverageDownload0^Sonda.BSWTools1^.method public static int32  2^2573^
+CopyTextFrom0^Sonda.BSWTools1^.method public static string  2^2573^
+DeleteFilesFromFolders0^Sonda.BSWTools1^.method public static void  2^2573^
+DoNothing0^Sonda.BSWTools1^.method public static void  2^2573^
+EmptyRecycleBin0^Sonda.BSWTools1^.method public static void  2^2573^
+IsEmptyDir0^Sonda.BSWTools1^.method public static bool  2^2573^
+KillMe0^Sonda.BSWTools1^.method public static void  2^2573^
+MoveKeyUp0^Sonda.BSWTools1^.method public static void  2^2573^
+StartAverageDownload0^Sonda.BSWTools1^.method public static void  2^2573^
+WaitFor0^Sonda.BSWTools1^.method public static void  2^2573^
+Sonda.BSWTorrent0^1^.class private auto ansi sealed2^2603^
+ResetTorrent0^Sonda.BSWTorrent1^.method public static void  2^2573^
+Sonda.BSWUpgrade0^1^.class private auto ansi sealed2^2603^
+Upgrade0^Sonda.BSWUpgrade1^.method public static void  2^2573^
+Sonda.BSWVars0^1^.class private auto ansi sealed beforefieldinit2^2603^
+BytesIn0^Sonda.BSWVars1^.field public static int64 2^03^
+BytesOut0^Sonda.BSWVars1^.field public static int64 2^03^
+CapturedImage0^Sonda.BSWVars1^.field public static class Sonda.CaptureScreen 2^03^
+CurrentDownload0^Sonda.BSWVars1^.field public static int64 2^03^
+CurrentTestID0^Sonda.BSWVars1^.field public static string 2^03^
+CurrentUpload0^Sonda.BSWVars1^.field public static int64 2^03^
+CycleDateTime0^Sonda.BSWVars1^.field public static valuetype [mscorlib]System.DateTime 2^03^
+CycleID0^Sonda.BSWVars1^.field public static int64 2^03^
+DataNet0^Sonda.BSWVars1^.field public static int32[0...,0...] 2^03^
+DevEnv0^Sonda.BSWVars1^.field public static bool 2^03^
+HTMLSize0^Sonda.BSWVars1^.field public static int64 2^03^
+HTTPComplete0^Sonda.BSWVars1^.field public static bool 2^03^
+INI0^Sonda.BSWVars1^.field public static class Sonda.INIFiles 2^03^
+LabelsNet0^Sonda.BSWVars1^.field public static string[] 2^03^
+LastSync0^Sonda.BSWVars1^.field public static int32 2^03^
+MAC0^Sonda.BSWVars1^.field public static class [Microsoft.VisualBasic]Microsoft.VisualBasic.Collection 2^03^
+MAX0^Sonda.BSWVars1^.field public static literal int32 2^03^
+MAXDown0^Sonda.BSWVars1^.field public static int64 2^03^
+MAXUp0^Sonda.BSWVars1^.field public static int64 2^03^
+RandomNumber0^Sonda.BSWVars1^.field public static class [mscorlib]System.Random 2^03^
+ScreenCapture0^Sonda.BSWVars1^.field public static class Sonda.CaptureScreen[] 2^03^
+Serial0^Sonda.BSWVars1^.field public static string 2^03^
+ServerSEC0^Sonda.BSWVars1^.field public static object 2^03^
+SVersion0^Sonda.BSWVars1^.field public static string 2^03^
+SW0^Sonda.BSWVars1^.field public static class [System]System.Diagnostics.Stopwatch 2^03^
+SWTimer0^Sonda.BSWVars1^.field public static class [System]System.Diagnostics.Stopwatch 2^03^
+SystemDir0^Sonda.BSWVars1^.field public static literal string 2^03^
+Test0^Sonda.BSWVars1^.field public static valuetype Sonda.BSWVars/TestStructure 2^03^
+TestRunning0^Sonda.BSWVars1^.field public static bool 2^03^
+TestStructure0^Sonda.BSWVars1^.class sequential ansi sealed nested public2^2573^
+Action0^Sonda.BSWVars/TestStructure1^.field public string 2^03^
+ActionIndex0^Sonda.BSWVars/TestStructure1^.field public int32 2^03^
+CacheHIT0^Sonda.BSWVars/TestStructure1^.field public int32 2^03^
+DNS0^Sonda.BSWVars/TestStructure1^.field public int32 2^03^
+Down0^Sonda.BSWVars/TestStructure1^.field public int32 2^03^
+OffsetX0^Sonda.BSWVars/TestStructure1^.field public int32 2^03^
+Start0^Sonda.BSWVars/TestStructure1^.method public instance void  2^2563^
+Test0^Sonda.BSWVars/TestStructure1^.field public string 2^03^
+TryAgain0^Sonda.BSWVars/TestStructure1^.field public bool 2^03^
+Up0^Sonda.BSWVars/TestStructure1^.field public int32 2^03^
+VideoDropCounter0^Sonda.BSWVars/TestStructure1^.field public int32 2^03^
+VideoHash0^Sonda.BSWVars/TestStructure1^.field public string 2^03^
+VideoLength0^Sonda.BSWVars/TestStructure1^.field public string 2^03^
+VideoPlayed0^Sonda.BSWVars/TestStructure1^.field public string 2^03^
+TimeOutDescription0^Sonda.BSWVars1^.field public static string 2^03^
+TimeSlot0^Sonda.BSWVars1^.field public static int32 2^03^
+uTorrentGUI0^Sonda.BSWVars1^.field public static literal string 2^03^
+VIDEOHASPAUSED0^Sonda.BSWVars1^.field public static class Sonda.CaptureScreen 2^03^
+VideoType0^Sonda.BSWVars1^.field public static string 2^03^
+WebConfigDir0^Sonda.BSWVars1^.field public static literal string 2^03^
+WebPageLoadTimer0^Sonda.BSWVars1^.field public static class [System]System.Diagnostics.Stopwatch 2^03^
+WebPageLoadTimerFirst0^Sonda.BSWVars1^.field public static class [System]System.Diagnostics.Stopwatch 2^03^
+WebToTest0^Sonda.BSWVars1^.field public static string[] 2^03^
+WebUpgradeDir0^Sonda.BSWVars1^.field public static literal string 2^03^
+XVideosSeq0^Sonda.BSWVars1^.field public static int32 2^03^
+Sonda.BSWVideoDailymotion0^1^.class private auto ansi sealed2^2603^
+getDailyMotion0^Sonda.BSWVideoDailymotion1^.method public static string  2^2573^
+Sonda.BSWVideoPornHub0^1^.class private auto ansi sealed2^2603^
+GetPornHub0^Sonda.BSWVideoPornHub1^.method public static string  2^2573^
+Sonda.BSWVideoRedTube0^1^.class private auto ansi sealed2^2603^
+GetRedTube0^Sonda.BSWVideoRedTube1^.method public static string  2^2573^
+Sonda.BSWVideoXVideos0^1^.class private auto ansi sealed2^2603^
+getXVideos0^Sonda.BSWVideoXVideos1^.method public static string  2^2573^
+LoadFromWeb0^Sonda.BSWVideoXVideos1^.method public static string  2^2573^
+Sonda.BSWVideoYouPorn0^1^.class private auto ansi sealed2^2603^
+CheckConnections0^Sonda.BSWVideoYouPorn1^.method public static bool  2^2573^
+CheckIP0^Sonda.BSWVideoYouPorn1^.method public static bool  2^2573^
+GetYouPorn0^Sonda.BSWVideoYouPorn1^.method public static string  2^2573^
+Sonda.BSWVideoYouTube0^1^.class private auto ansi sealed2^2603^
+YouTube0^Sonda.BSWVideoYouTube1^.method public static void  2^2573^
+Sonda.BSWVTRSpeedtest0^1^.class private auto ansi sealed2^2603^
+SpeedTestVTR0^Sonda.BSWVTRSpeedtest1^.method public static void  2^2573^
+Sonda.CaptureScreen0^1^.class public auto ansi2^2603^
+BMP10^Sonda.CaptureScreen1^.field public class [System.Drawing]System.Drawing.Bitmap 2^03^
+BMP20^Sonda.CaptureScreen1^.field public class [System.Drawing]System.Drawing.Bitmap 2^03^
+CaptureDestination0^Sonda.CaptureScreen1^.method public instance void  2^2573^
+CaptureSource0^Sonda.CaptureScreen1^.method public instance void  2^2573^
+Compare0^Sonda.CaptureScreen1^.method public instance bool  2^2573^
+Compare20^Sonda.CaptureScreen1^.method public instance bool  2^2573^
+CompareAB0^Sonda.CaptureScreen1^.method public instance bool  2^2573^
+CompareT0^Sonda.CaptureScreen1^.method public instance bool  2^2573^
+Display0^Sonda.CaptureScreen1^.method public instance void  2^2573^
+Shift0^Sonda.CaptureScreen1^.method public instance void  2^2573^
+Sonda.Encription0^1^.class private auto ansi sealed2^2603^
+Decrypt0^Sonda.Encription1^.method public static string  2^2573^
+Sonda.INIFiles0^1^.class public auto ansi2^2603^
+Discover0^Sonda.INIFiles1^.method public instance void  2^2573^
+FileName0^Sonda.INIFiles1^.property instance string 2^03^
+get_FileName0^Sonda.INIFiles1^.method public specialname instance string 
+          2^2573^
+GetBoolean0^Sonda.INIFiles1^.method public instance bool  2^2573^
+GetCmd0^Sonda.INIFiles1^.method public instance void  2^2573^
+GetIniFile0^Sonda.INIFiles1^.method public instance bool  2^2573^
+GetInteger0^Sonda.INIFiles1^.method public instance int32  2^2573^
+GetIntegerFrom0^Sonda.INIFiles1^.method public instance int32  2^2573^
+GetString0^Sonda.INIFiles1^.method public instance string  2^2573^
+GetStringFrom0^Sonda.INIFiles1^.method public instance string  2^2573^
+GetZabbix0^Sonda.INIFiles1^.method public instance bool  2^2573^
+WriteBoolean0^Sonda.INIFiles1^.method public instance void  2^2573^
+WriteInteger0^Sonda.INIFiles1^.method public instance void  2^2573^
+WriteIntegerTo0^Sonda.INIFiles1^.method public instance void  2^2573^
+WriteString0^Sonda.INIFiles1^.method public instance void  2^2573^
+WriteStringTo0^Sonda.INIFiles1^.method public instance void  2^2573^
+Sonda.My.MyApplication0^1^.class private auto ansi2^2603^
+Main0^Sonda.My.MyApplication1^.method assembly static void  2^2573^
+Sonda.My.MyComputer0^1^.class private auto ansi2^2603^
+Sonda.My.MyProject0^1^.class private auto ansi sealed beforefieldinit2^2603^
+MyForms0^Sonda.My.MyProject1^.class auto ansi sealed nested assembly2^2573^
+BSW0^Sonda.My.MyProject/MyForms1^.property instance class Sonda.BSW 2^03^
+get_BSW0^Sonda.My.MyProject/MyForms1^.method public specialname instance class Sonda.BSW 
+            2^2563^
+set_BSW0^Sonda.My.MyProject/MyForms1^.method public specialname instance void 
+            2^2563^
+Equals0^Sonda.My.MyProject/MyForms1^.method public strict virtual instance bool 
+            2^2563^
+GetHashCode0^Sonda.My.MyProject/MyForms1^.method public strict virtual instance int32 
+            2^2563^
+GetType0^Sonda.My.MyProject/MyForms1^.method assembly hidebysig instance class [mscorlib]System.Type 
+            2^2563^
+m_BSW0^Sonda.My.MyProject/MyForms1^.field public class Sonda.BSW 2^03^
+ToString0^Sonda.My.MyProject/MyForms1^.method public strict virtual instance string 
+            2^2563^
+MyWebServices0^Sonda.My.MyProject1^.class auto ansi sealed nested assembly2^2573^
+Equals0^Sonda.My.MyProject/MyWebServices1^.method public strict virtual instance bool 
+            2^2563^
+GetHashCode0^Sonda.My.MyProject/MyWebServices1^.method public strict virtual instance int32 
+            2^2563^
+GetType0^Sonda.My.MyProject/MyWebServices1^.method assembly hidebysig instance class [mscorlib]System.Type 
+            2^2563^
+ToString0^Sonda.My.MyProject/MyWebServices1^.method public strict virtual instance string 
+            2^2563^
+Sonda.My.Resources.Resources0^1^.class private auto ansi sealed2^2603^
+censored0^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_censored0^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+Culture0^Sonda.My.Resources.Resources1^.property class [mscorlib]System.Globalization.CultureInfo
+          2^03^
+get_Culture0^Sonda.My.Resources.Resources1^.method assembly specialname static class [mscorlib]System.Globalization.CultureInfo 
+          2^2573^
+set_Culture0^Sonda.My.Resources.Resources1^.method assembly specialname static void 
+          2^2573^
+Fping0^Sonda.My.Resources.Resources1^.property uint8[] 2^03^
+get_Fping0^Sonda.My.Resources.Resources1^.method assembly specialname static uint8[] 
+          2^2573^
+N00^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N00^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+N10^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N10^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+N20^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N20^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+N30^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N30^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+N40^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N40^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+N50^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N50^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+N60^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N60^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+N70^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N70^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+N80^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N80^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+N90^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_N90^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+redtube0^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_redtube0^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+ResourceManager0^Sonda.My.Resources.Resources1^.property class [mscorlib]System.Resources.ResourceManager
+          2^03^
+get_ResourceManager0^Sonda.My.Resources.Resources1^.method assembly specialname static class [mscorlib]System.Resources.ResourceManager 
+          2^2573^
+STBLK0^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_STBLK0^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+VTR0^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_VTR0^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+youporn0^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_youporn0^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+youporn20^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_youporn20^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+YT0^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_YT0^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+YTLine0^Sonda.My.Resources.Resources1^.property class [System.Drawing]System.Drawing.Bitmap
+          2^03^
+get_YTLine0^Sonda.My.Resources.Resources1^.method assembly specialname static class [System.Drawing]System.Drawing.Bitmap 
+          2^2573^
+Sonda.Sound0^1^.class public auto ansi2^2603^
+cbStruct0^Sonda.Sound/MIXERCONTROL1^.field [0] public int32 2^03^
+cMultipleItems0^Sonda.Sound/MIXERCONTROL1^.field [16] public int32 2^03^
+dwControlID0^Sonda.Sound/MIXERCONTROL1^.field [4] public int32 2^03^
+dwControlType0^Sonda.Sound/MIXERCONTROL1^.field [8] public int32 2^03^
+fdwControl0^Sonda.Sound/MIXERCONTROL1^.field [12] public int32 2^03^
+lMaximum0^Sonda.Sound/MIXERCONTROL1^.field [104] public int32 2^03^
+lMinimum0^Sonda.Sound/MIXERCONTROL1^.field [100] public int32 2^03^
+reserved0^Sonda.Sound/MIXERCONTROL1^.field [108] public  marshal( fixed array [11] as any) int32[] 2^03^
+szName0^Sonda.Sound/MIXERCONTROL1^.field [36] public  marshal( fixed sysstring [64]) string 2^03^
+szShortName0^Sonda.Sound/MIXERCONTROL1^.field [20] public  marshal( fixed sysstring [16]) string 2^03^
+cbDetails0^Sonda.Sound/MIXERCONTROLDETAILS1^.field [16] public int32 2^03^
+cbStruct0^Sonda.Sound/MIXERCONTROLDETAILS1^.field [0] public int32 2^03^
+cChannels0^Sonda.Sound/MIXERCONTROLDETAILS1^.field [8] public int32 2^03^
+dwControlID0^Sonda.Sound/MIXERCONTROLDETAILS1^.field [4] public int32 2^03^
+item0^Sonda.Sound/MIXERCONTROLDETAILS1^.field [12] public int32 2^03^
+paDetails0^Sonda.Sound/MIXERCONTROLDETAILS1^.field [20] public native int 2^03^
+dwValue0^Sonda.Sound/MIXERCONTROLDETAILS_UNSIGNED1^.field [0] public int32 2^03^
+cbStruct0^Sonda.Sound/MIXERLINE1^.field [0] public int32 2^03^
+cChannels0^Sonda.Sound/MIXERLINE1^.field [28] public int32 2^03^
+cConnections0^Sonda.Sound/MIXERLINE1^.field [32] public int32 2^03^
+cControls0^Sonda.Sound/MIXERLINE1^.field [36] public int32 2^03^
+dwComponentType0^Sonda.Sound/MIXERLINE1^.field [24] public int32 2^03^
+dwDestination0^Sonda.Sound/MIXERLINE1^.field [4] public int32 2^03^
+dwDeviceID0^Sonda.Sound/MIXERLINE1^.field [124] public int32 2^03^
+dwLineID0^Sonda.Sound/MIXERLINE1^.field [12] public int32 2^03^
+dwSource0^Sonda.Sound/MIXERLINE1^.field [8] public int32 2^03^
+dwType0^Sonda.Sound/MIXERLINE1^.field [120] public int32 2^03^
+dwUser0^Sonda.Sound/MIXERLINE1^.field [20] public int32 2^03^
+fdwLine0^Sonda.Sound/MIXERLINE1^.field [16] public int32 2^03^
+szName0^Sonda.Sound/MIXERLINE1^.field [56] public  marshal( fixed sysstring [64]) string 2^03^
+szPname0^Sonda.Sound/MIXERLINE1^.field [168] public  marshal( fixed sysstring [32]) string 2^03^
+szShortName0^Sonda.Sound/MIXERLINE1^.field [40] public  marshal( fixed sysstring [16]) string 2^03^
+vDriverVersion0^Sonda.Sound/MIXERLINE1^.field [136] public int32 2^03^
+wMid0^Sonda.Sound/MIXERLINE1^.field [128] public int32 2^03^
+wPid0^Sonda.Sound/MIXERLINE1^.field [132] public int32 2^03^
+cbmxctrl0^Sonda.Sound/MIXERLINECONTROLS1^.field [16] public int32 2^03^
+cbStruct0^Sonda.Sound/MIXERLINECONTROLS1^.field [0] public int32 2^03^
+cControls0^Sonda.Sound/MIXERLINECONTROLS1^.field [12] public int32 2^03^
+dwControl0^Sonda.Sound/MIXERLINECONTROLS1^.field [8] public int32 2^03^
+dwLineID0^Sonda.Sound/MIXERLINECONTROLS1^.field [4] public int32 2^03^
+pamxctrl0^Sonda.Sound/MIXERLINECONTROLS1^.field [20] public native int 2^03^
+SetSound0^Sonda.Sound1^.method public instance void  2^2573^
+SetVolume0^Sonda.Sound1^.method public instance void  2^2573^
+    </Public_members>
+    <Strings>
+    </Strings>
+    <ControlFlow>
+      <ControlFlowAlgorithm>Light</ControlFlowAlgorithm>
+      <ControlFlowMethods>
+Sonda.BSW1^.ctor
+Sonda.BSW1^ActionStatus
+Sonda.BSW1^get_ActionStatus
+Sonda.BSW1^set_ActionStatus
+Sonda.BSW1^AVGD
+Sonda.BSW1^get_AVGD
+Sonda.BSW1^set_AVGD
+Sonda.BSW1^BlankImage
+Sonda.BSW1^get_BlankImage
+Sonda.BSW1^set_BlankImage
+Sonda.BSW1^Button1
+Sonda.BSW1^get_Button1
+Sonda.BSW1^set_Button1
+Sonda.BSW1^Button1_Click
+Sonda.BSW1^Capture_CheckedChanged
+Sonda.BSW1^CaptureImage
+Sonda.BSW1^get_CaptureImage
+Sonda.BSW1^set_CaptureImage
+Sonda.BSW1^CX
+Sonda.BSW1^get_CX
+Sonda.BSW1^set_CX
+Sonda.BSW1^CY
+Sonda.BSW1^get_CY
+Sonda.BSW1^set_CY
+Sonda.BSW1^CycleSerial
+Sonda.BSW1^get_CycleSerial
+Sonda.BSW1^set_CycleSerial
+Sonda.BSW1^CycleSerial_Tick
+Sonda.BSW1^Dispose
+Sonda.BSW1^DNST
+Sonda.BSW1^get_DNST
+Sonda.BSW1^set_DNST
+Sonda.BSW1^Form1_Load
+Sonda.BSW1^FTPBack
+Sonda.BSW1^get_FTPBack
+Sonda.BSW1^set_FTPBack
+Sonda.BSW1^FTPBack_DoWork
+Sonda.BSW1^FtpTest
+Sonda.BSW1^HTTP_Tick
+Sonda.BSW1^httpstatus
+Sonda.BSW1^get_httpstatus
+Sonda.BSW1^set_httpstatus
+Sonda.BSW1^HTTPTimer
+Sonda.BSW1^get_HTTPTimer
+Sonda.BSW1^set_HTTPTimer
+Sonda.BSW1^ImageRedTube
+Sonda.BSW1^get_ImageRedTube
+Sonda.BSW1^set_ImageRedTube
+Sonda.BSW1^ImageYouPorn1
+Sonda.BSW1^get_ImageYouPorn1
+Sonda.BSW1^set_ImageYouPorn1
+Sonda.BSW1^ImageYouPorn2
+Sonda.BSW1^get_ImageYouPorn2
+Sonda.BSW1^set_ImageYouPorn2
+Sonda.BSW1^InitializeComponent
+Sonda.BSW1^MAXDownBar
+Sonda.BSW1^get_MAXDownBar
+Sonda.BSW1^set_MAXDownBar
+Sonda.BSW1^MAXUpBar
+Sonda.BSW1^get_MAXUpBar
+Sonda.BSW1^set_MAXUpBar
+Sonda.BSW1^MouseIndicator
+Sonda.BSW1^get_MouseIndicator
+Sonda.BSW1^set_MouseIndicator
+Sonda.BSW1^MouseIndicator_Tick
+Sonda.BSW1^N0
+Sonda.BSW1^get_N0
+Sonda.BSW1^set_N0
+Sonda.BSW1^N1
+Sonda.BSW1^get_N1
+Sonda.BSW1^set_N1
+Sonda.BSW1^N2
+Sonda.BSW1^get_N2
+Sonda.BSW1^set_N2
+Sonda.BSW1^N3
+Sonda.BSW1^get_N3
+Sonda.BSW1^set_N3
+Sonda.BSW1^N4
+Sonda.BSW1^get_N4
+Sonda.BSW1^set_N4
+Sonda.BSW1^N5
+Sonda.BSW1^get_N5
+Sonda.BSW1^set_N5
+Sonda.BSW1^N6
+Sonda.BSW1^get_N6
+Sonda.BSW1^set_N6
+Sonda.BSW1^N7
+Sonda.BSW1^get_N7
+Sonda.BSW1^set_N7
+Sonda.BSW1^N8
+Sonda.BSW1^get_N8
+Sonda.BSW1^set_N8
+Sonda.BSW1^N9
+Sonda.BSW1^get_N9
+Sonda.BSW1^set_N9
+Sonda.BSW1^Network
+Sonda.BSW1^get_Network
+Sonda.BSW1^set_Network
+Sonda.BSW1^Network_Tick
+Sonda.BSW1^OneSecondTimer
+Sonda.BSW1^get_OneSecondTimer
+Sonda.BSW1^set_OneSecondTimer
+Sonda.BSW1^OneSecondTimer_Tick
+Sonda.BSW1^Ookla_Tick
+Sonda.BSW1^OoklaTimer
+Sonda.BSW1^get_OoklaTimer
+Sonda.BSW1^set_OoklaTimer
+Sonda.BSW1^Panel1
+Sonda.BSW1^get_Panel1
+Sonda.BSW1^set_Panel1
+Sonda.BSW1^pbar
+Sonda.BSW1^get_pbar
+Sonda.BSW1^set_pbar
+Sonda.BSW1^PictureBox1
+Sonda.BSW1^get_PictureBox1
+Sonda.BSW1^set_PictureBox1
+Sonda.BSW1^PictureBox2
+Sonda.BSW1^get_PictureBox2
+Sonda.BSW1^set_PictureBox2
+Sonda.BSW1^PictureBox3
+Sonda.BSW1^get_PictureBox3
+Sonda.BSW1^set_PictureBox3
+Sonda.BSW1^PictureBox4
+Sonda.BSW1^get_PictureBox4
+Sonda.BSW1^set_PictureBox4
+Sonda.BSW1^PictureHOT
+Sonda.BSW1^get_PictureHOT
+Sonda.BSW1^set_PictureHOT
+Sonda.BSW1^PingTestLabel
+Sonda.BSW1^get_PingTestLabel
+Sonda.BSW1^set_PingTestLabel
+Sonda.BSW1^PlayerEnd
+Sonda.BSW1^get_PlayerEnd
+Sonda.BSW1^set_PlayerEnd
+Sonda.BSW1^playimg
+Sonda.BSW1^get_playimg
+Sonda.BSW1^set_playimg
+Sonda.BSW1^PornVideo_Tick
+Sonda.BSW1^ReadCM
+Sonda.BSW1^get_ReadCM
+Sonda.BSW1^set_ReadCM
+Sonda.BSW1^ReadCM_Tick
+Sonda.BSW1^SpeedNow
+Sonda.BSW1^get_SpeedNow
+Sonda.BSW1^set_SpeedNow
+Sonda.BSW1^SpeedTestFlash
+Sonda.BSW1^get_SpeedTestFlash
+Sonda.BSW1^set_SpeedTestFlash
+Sonda.BSW1^SSYNC
+Sonda.BSW1^get_SSYNC
+Sonda.BSW1^set_SSYNC
+Sonda.BSW1^StatusStrip1
+Sonda.BSW1^get_StatusStrip1
+Sonda.BSW1^set_StatusStrip1
+Sonda.BSW1^StatusStrip2
+Sonda.BSW1^get_StatusStrip2
+Sonda.BSW1^set_StatusStrip2
+Sonda.BSW1^StopAll
+Sonda.BSW1^StopAllTimers
+Sonda.BSW1^SystemTime
+Sonda.BSW1^get_SystemTime
+Sonda.BSW1^set_SystemTime
+Sonda.BSW1^TestTimer
+Sonda.BSW1^get_TestTimer
+Sonda.BSW1^set_TestTimer
+Sonda.BSW1^TimeOut_Tick
+Sonda.BSW1^TimeOutTimer
+Sonda.BSW1^get_TimeOutTimer
+Sonda.BSW1^set_TimeOutTimer
+Sonda.BSW1^ToolStripStatusLabel1
+Sonda.BSW1^get_ToolStripStatusLabel1
+Sonda.BSW1^set_ToolStripStatusLabel1
+Sonda.BSW1^TorrentStart
+Sonda.BSW1^TorrentTimer
+Sonda.BSW1^get_TorrentTimer
+Sonda.BSW1^set_TorrentTimer
+Sonda.BSW1^TorrentTimer_Tick
+Sonda.BSW1^VideoLoad
+Sonda.BSW1^get_VideoLoad
+Sonda.BSW1^set_VideoLoad
+Sonda.BSW1^VideoNameTxt
+Sonda.BSW1^get_VideoNameTxt
+Sonda.BSW1^set_VideoNameTxt
+Sonda.BSW1^VIDEOPAUSE
+Sonda.BSW1^get_VIDEOPAUSE
+Sonda.BSW1^set_VIDEOPAUSE
+Sonda.BSW1^VTRSpeedtest
+Sonda.BSW1^get_VTRSpeedtest
+Sonda.BSW1^set_VTRSpeedtest
+Sonda.BSW1^VTRSpeedtestTimer
+Sonda.BSW1^get_VTRSpeedtestTimer
+Sonda.BSW1^set_VTRSpeedtestTimer
+Sonda.BSW1^VTRSpeedtestTimer_Tick
+Sonda.BSW1^WebBrowser1
+Sonda.BSW1^get_WebBrowser1
+Sonda.BSW1^set_WebBrowser1
+Sonda.BSW1^WebBrowser1_DocumentCompleted
+Sonda.BSW1^WebBrowser1_Navigated
+Sonda.BSW1^WebBrowser1_ProgressChanged
+Sonda.BSW1^YouTube_Tick
+Sonda.BSW1^YouTubeBar01
+Sonda.BSW1^get_YouTubeBar01
+Sonda.BSW1^set_YouTubeBar01
+Sonda.BSW1^YouTubeBar02
+Sonda.BSW1^get_YouTubeBar02
+Sonda.BSW1^set_YouTubeBar02
+Sonda.BSW1^YouTubeBar03
+Sonda.BSW1^get_YouTubeBar03
+Sonda.BSW1^set_YouTubeBar03
+Sonda.BSW1^YouTubeEnd01
+Sonda.BSW1^get_YouTubeEnd01
+Sonda.BSW1^set_YouTubeEnd01
+Sonda.BSW1^YouTubeEnd02
+Sonda.BSW1^get_YouTubeEnd02
+Sonda.BSW1^set_YouTubeEnd02
+Sonda.BSW1^YouTubeEnd03
+Sonda.BSW1^get_YouTubeEnd03
+Sonda.BSW1^set_YouTubeEnd03
+Sonda.BSW1^YouTubeFlash
+Sonda.BSW1^get_YouTubeFlash
+Sonda.BSW1^set_YouTubeFlash
+Sonda.BSW1^YouTubeTimer
+Sonda.BSW1^get_YouTubeTimer
+Sonda.BSW1^set_YouTubeTimer
+Sonda.BSW1^YouTubeWeb
+Sonda.BSW1^ZNet
+Sonda.BSW1^get_ZNet
+Sonda.BSW1^set_ZNet
+Sonda.BSWClearIECache1^Clear_Clear_Add_ons_Settings
+Sonda.BSWClearIECache1^Clear_Cookies
+Sonda.BSWClearIECache1^Clear_Form_Data
+Sonda.BSWClearIECache1^Clear_History
+Sonda.BSWClearIECache1^Clear_Saved_Passwords
+Sonda.BSWClearIECache1^Clear_Temp_Files
+Sonda.BSWClearIECache1^ClearCacheAll
+Sonda.BSWCM1^.cctor
+Sonda.BSWCM1^Convert
+Sonda.BSWCM1^Find
+Sonda.BSWCM1^NavigateWeb
+Sonda.BSWCM1^ReadDataCM
+Sonda.BSWCSNMP1^.ctor
+Sonda.BSWCSNMP1^Calculate
+Sonda.BSWCSNMP1^Write
+Sonda.BSWCSNMP1^WriteToFileSNMP
+Sonda.BSWCSNMP1^WriteToLog
+Sonda.BSWCSNMP1^WriteValue
+Sonda.BSWDns1^CalculateDNS
+Sonda.BSWDns1^DoDNS
+Sonda.BSWError1^WriteError
+Sonda.BSWError1^WriteLog
+Sonda.BSWHTTPTest1^HTTPTest
+Sonda.BSWInitialize1^Initalize
+Sonda.BSWMain1^.cctor
+Sonda.BSWMain1^DeleteSNMP
+Sonda.BSWMain1^KillIE
+Sonda.BSWMain1^ProcessSerial
+Sonda.BSWMain1^ProcessSerialSequencial
+Sonda.BSWMain1^SYNC
+Sonda.BSWMouse1^.cctor
+Sonda.BSWMouse1^GetCurrentX
+Sonda.BSWMouse1^GetCurrentY
+Sonda.BSWMouse1^GetMousePos
+Sonda.BSWMouse1^LeftClick
+Sonda.BSWMouse1^LeftDown
+Sonda.BSWMouse1^LeftUp
+Sonda.BSWMouse1^MiddleClick
+Sonda.BSWMouse1^MiddleDown
+Sonda.BSWMouse1^MiddleUp
+Sonda.BSWMouse1^MoveMouse
+Sonda.BSWMouse1^RightClick
+Sonda.BSWMouse1^RightDown
+Sonda.BSWMouse1^RightUp
+Sonda.BSWMouse1^SetCursor
+Sonda.BSWNetworkGraph1^UpdateNetworkGraph
+Sonda.BSWPing1^DoPing
+Sonda.BSWPing1^NoDot
+Sonda.BSWPing1^RunIt
+Sonda.BSWTimer1^StartTimer
+Sonda.BSWTimer1^StopTimer
+Sonda.BSWTimer1^TimeOut
+Sonda.BSWTools1^.cctor
+Sonda.BSWTools1^CalculateAverageDownload
+Sonda.BSWTools1^CopyTextFrom
+Sonda.BSWTools1^DeleteFilesFromFolders
+Sonda.BSWTools1^DoNothing
+Sonda.BSWTools1^EmptyRecycleBin
+Sonda.BSWTools1^IsEmptyDir
+Sonda.BSWTools1^KillMe
+Sonda.BSWTools1^MoveKeyUp
+Sonda.BSWTools1^StartAverageDownload
+Sonda.BSWTools1^WaitFor
+Sonda.BSWTorrent1^ResetTorrent
+Sonda.BSWUpgrade1^Upgrade
+Sonda.BSWVars1^.cctor
+Sonda.BSWVideoDailymotion1^getDailyMotion
+Sonda.BSWVideoPornHub1^GetPornHub
+Sonda.BSWVideoRedTube1^GetRedTube
+Sonda.BSWVideoXVideos1^getXVideos
+Sonda.BSWVideoXVideos1^LoadFromWeb
+Sonda.BSWVideoYouPorn1^CheckConnections
+Sonda.BSWVideoYouPorn1^CheckIP
+Sonda.BSWVideoYouPorn1^GetYouPorn
+Sonda.BSWVideoYouTube1^YouTube
+Sonda.BSWVTRSpeedtest1^SpeedTestVTR
+Sonda.CaptureScreen1^.ctor
+Sonda.CaptureScreen1^Capture
+Sonda.CaptureScreen1^CaptureDestination
+Sonda.CaptureScreen1^CaptureSource
+Sonda.CaptureScreen1^Compare
+Sonda.CaptureScreen1^Compare2
+Sonda.CaptureScreen1^CompareAB
+Sonda.CaptureScreen1^CompareT
+Sonda.CaptureScreen1^Display
+Sonda.CaptureScreen1^Finalize
+Sonda.CaptureScreen1^Shift
+Sonda.Encription1^Decrypt
+Sonda.INIFiles1^.ctor
+Sonda.INIFiles1^Discover
+Sonda.INIFiles1^FileName
+Sonda.INIFiles1^get_FileName
+Sonda.INIFiles1^Flush
+Sonda.INIFiles1^GetBoolean
+Sonda.INIFiles1^GetCmd
+Sonda.INIFiles1^GetDefault
+Sonda.INIFiles1^GetIniFile
+Sonda.INIFiles1^GetINIs
+Sonda.INIFiles1^GetInteger
+Sonda.INIFiles1^GetIntegerFrom
+Sonda.INIFiles1^GetString
+Sonda.INIFiles1^GetStringFrom
+Sonda.INIFiles1^GetZabbix
+Sonda.INIFiles1^WriteBoolean
+Sonda.INIFiles1^WriteInteger
+Sonda.INIFiles1^WriteIntegerTo
+Sonda.INIFiles1^WriteString
+Sonda.INIFiles1^WriteStringTo
+Sonda.My.MyApplication1^.ctor
+Sonda.My.MyApplication1^Main
+Sonda.My.MyApplication1^OnCreateMainForm
+Sonda.My.MyComputer1^.ctor
+Sonda.My.MyProject1^.cctor
+Sonda.My.MyProject1^Application
+Sonda.My.MyProject1^get_Application
+Sonda.My.MyProject1^Computer
+Sonda.My.MyProject1^get_Computer
+Sonda.My.MyProject1^Forms
+Sonda.My.MyProject1^get_Forms
+Sonda.My.MyProject1^User
+Sonda.My.MyProject1^get_User
+Sonda.My.MyProject1^WebServices
+Sonda.My.MyProject1^get_WebServices
+Sonda.My.Resources.Resources1^censored
+Sonda.My.Resources.Resources1^get_censored
+Sonda.My.Resources.Resources1^Culture
+Sonda.My.Resources.Resources1^get_Culture
+Sonda.My.Resources.Resources1^set_Culture
+Sonda.My.Resources.Resources1^Fping
+Sonda.My.Resources.Resources1^get_Fping
+Sonda.My.Resources.Resources1^N0
+Sonda.My.Resources.Resources1^get_N0
+Sonda.My.Resources.Resources1^N1
+Sonda.My.Resources.Resources1^get_N1
+Sonda.My.Resources.Resources1^N2
+Sonda.My.Resources.Resources1^get_N2
+Sonda.My.Resources.Resources1^N3
+Sonda.My.Resources.Resources1^get_N3
+Sonda.My.Resources.Resources1^N4
+Sonda.My.Resources.Resources1^get_N4
+Sonda.My.Resources.Resources1^N5
+Sonda.My.Resources.Resources1^get_N5
+Sonda.My.Resources.Resources1^N6
+Sonda.My.Resources.Resources1^get_N6
+Sonda.My.Resources.Resources1^N7
+Sonda.My.Resources.Resources1^get_N7
+Sonda.My.Resources.Resources1^N8
+Sonda.My.Resources.Resources1^get_N8
+Sonda.My.Resources.Resources1^N9
+Sonda.My.Resources.Resources1^get_N9
+Sonda.My.Resources.Resources1^redtube
+Sonda.My.Resources.Resources1^get_redtube
+Sonda.My.Resources.Resources1^ResourceManager
+Sonda.My.Resources.Resources1^get_ResourceManager
+Sonda.My.Resources.Resources1^STBLK
+Sonda.My.Resources.Resources1^get_STBLK
+Sonda.My.Resources.Resources1^VTR
+Sonda.My.Resources.Resources1^get_VTR
+Sonda.My.Resources.Resources1^youporn
+Sonda.My.Resources.Resources1^get_youporn
+Sonda.My.Resources.Resources1^youporn2
+Sonda.My.Resources.Resources1^get_youporn2
+Sonda.My.Resources.Resources1^YT
+Sonda.My.Resources.Resources1^get_YT
+Sonda.My.Resources.Resources1^YTLine
+Sonda.My.Resources.Resources1^get_YTLine
+Sonda.Sound1^.ctor
+Sonda.Sound1^GetVolumeControl
+Sonda.Sound1^SetSound
+Sonda.Sound1^SetVolume
+Sonda.Sound1^SetVolumeControl
+      </ControlFlowMethods>
+    </ControlFlow>
+    <Extensions>
+    </Extensions>
+    <Linker>
+    </Linker>
+    <Licenser>
+Sonda.BSW
+Sonda.BSW\Form1_Load
+    </Licenser>
+    <LicenseTitle>MyApplication</LicenseTitle>
+    <LicenseLink>http://MyApplicationOrderPage.html</LicenseLink>
+  </Assembly_settings_for_Sonda.exe>

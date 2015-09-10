@@ -1,0 +1,38 @@
+html {
+    font-size: 70.5%;
+}
+
+.container {
+	width:100%;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -50px;
+	position: relative;
+}
+
+.push {
+	height: 50px;
+}
+
+.footer  {
+	height: 50px;
+	position: fixed;
+	bottom:0;
+	width:100%;
+	z-index: 99;
+}
+
+.footer a {
+    padding: 14px 17px ;
+    font-size: 12px;
+    float: left;
+    width: 25%;
+}
+
+.footer .logo {
+    padding: 4px 0px;
+    width: 30%;
+    float: left;
+    text-align: right;
+}

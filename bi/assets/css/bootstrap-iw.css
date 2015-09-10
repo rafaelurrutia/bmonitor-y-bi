@@ -1,0 +1,285 @@
+@import url("iw-icons.css");
+
+/* NAVBAR IW
+----------------------------------------------------------- */
+.navbar .navbar-inner-iw {
+    border-bottom: 1px solid #0099cc;
+
+    /*background-color: #D94804;
+
+    background-image: -moz-linear-gradient(top, #ef621d, #D94804);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ef621d), to(#D94804));
+    background-image: -webkit-linear-gradient(top, #ef621d, #D94804);
+    background-image: -o-linear-gradient(top, #ef621d, #D94804);
+    background-image: linear-gradient(to bottom, #ef621d, #D94804);
+    background-repeat: repeat-x;
+    -webkit-box-shadow: rgba(255,255,255,0.25) 0 1px 0 inset;
+    -moz-box-shadow: rgba(255,255,255,0.25) 0 1px 0 inset;
+    /* IE 5.5–7 */
+    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef621d', endColorstr='#D94804', GradientType=0);
+    /* IE 8–9 */
+    /*-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ef621d', endColorstr='#D94804', GradientType=0)";
+    /* IE 10 */
+    /*-ms-linear-gradient(left, #ef621d 0%, #D94804 100%);*/
+    
+    /*MNLA GRADIENT*/
+    background: rgb(73,192,240); /* Old browsers */
+    /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzQ5YzBmMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyY2FmZTMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top,  rgba(73,192,240,1) 0%, rgba(44,175,227,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(73,192,240,1)), color-stop(100%,rgba(44,175,227,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(73,192,240,1) 0%,rgba(44,175,227,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(73,192,240,1) 0%,rgba(44,175,227,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(73,192,240,1) 0%,rgba(44,175,227,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(73,192,240,1) 0%,rgba(44,175,227,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#49c0f0', endColorstr='#2cafe3',GradientType=0 ); /* IE6-8 */
+
+}
+
+.navbar .navbar-inner-iw a.brand:visited,
+.navbar .navbar-inner-iw a.brand:hover,
+.navbar .navbar-inner-iw a.brand,
+.navbar .navbar-inner-iw .nav > li > a:visited,
+.navbar .navbar-inner-iw .nav > li > a:hover,
+.navbar .navbar-inner-iw .nav > li > a {
+    color:#fff;
+}
+
+
+.navbar .navbar-inner-iw .usermenu,
+.navbar .navbar-inner-iw .brand {
+    /*color: #FFFFFF;*/
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+    transition: opacity 0.2s ease 0s;
+}
+.navbar .navbar-inner-iw .brand span {
+    background-color:#000;
+    font-size:14px;
+}
+
+.navbar .navbar-inner-iw .brand {
+    width:200px;
+}
+
+
+/* DROPDOWN-USER
+----------------------------------------------------------- */
+.dropdown-user {
+    min-width:200px;
+}
+
+.dropdown-user li {
+    line-height: 12px;
+    font-size:12px;
+}
+.dropdown-user li .media {
+    padding: 10px 10px 0 10px;
+}
+.dropdown-user .dropdown-footer {
+    background: none repeat scroll 0 0 #EEEEEE;
+    margin-bottom: -5px;
+    padding: 3px 10px 10px 10px;
+    text-align: left;
+}
+
+
+.navbar-inner-iw .nav li.dropdown.open > .dropdown-toggle,
+.navbar-inner-iw .navbar .nav li.dropdown.active > .dropdown-toggle,
+.navbar-inner-iw .navbar .nav li.dropdown.open.active {
+    background-color: #D94804;
+    color:#fff;
+}
+
+.navbar .navbar-inner-iw .nav li.dropdown > .dropdown-toggle .caret {
+    border-bottom-color: #FFFFFF;
+    border-top-color: #FFFFFF;
+}
+
+
+.iwUltIngreso {
+    line-height:16px;
+}
+
+/* MAIN - GRAL
+----------------------------------------------------------- */
+body {
+    color: #646464;
+    background-color:#f1f1f1;
+    padding-top:40px;
+}
+
+html, body {
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#10819b;
+    font-size: 180%;
+    margin-top: -5px;
+}
+
+/* Well
+----------------------------------------------------------- */
+.well-white {
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+
+/* Teasers */
+.form-horizontal.teaser .control-group {margin-bottom:0px;}
+.form-horizontal.teaser .control-group .controls {padding-top:4px;}
+
+/* button dropdowns */
+.btn-mini .caret, .btn-small .caret, .btn-large .caret {
+    margin-top: 8px;
+    overflow:hidden;
+}
+
+/* FORM LOGIN
+----------------------------------------------------------- */
+.logo {
+    text-align:center;
+}
+.logo img {
+    width:150px;
+    height:50px;
+    margin-bottom:20px;
+}
+.login {
+    margin:0 auto;
+    margin-top:20px;
+    width: 245px;
+}
+.login .footer {
+    margin-top:10px;
+    width:220px;
+}
+
+.login .footer label input {
+    margin:0;
+    padding:0;
+}
+.login .footer label,
+.login .footer a {
+    font-size:12px;
+    line-height:14px;
+}
+
+.login hr {
+    margin:10px 0 0 0;
+    padding:0;
+}
+
+.login .alert {
+    font-size:12px;
+    line-height:15px;
+    margin-bottom:10px;
+}
+
+/* BODY
+----------------------------------------------------------- */
+.iwBody {
+    width:100%;
+    height:100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* SIDEBAR
+----------------------------------------------------------- */
+.iwSidebar {
+    background: url("../images/dbg.jpg") repeat scroll left top transparent;
+    width:200px;
+    vertical-align: top;
+}
+
+.iwSidebar ul.iwMenu > li a {
+    color: #ddd;
+    border-top: 1px solid #212121;
+    border-bottom: 1px solid #0a0c0e;
+    display:block;
+    margin: 1px 0 0 0;
+    padding:8px 0 8px 10px;
+    background: transparent;
+    filter: none;
+    text-shadow: 0 1px 1px #000;
+    -webkit-border-radius: 0;
+       -moz-border-radius: 0;
+            border-radius: 0;
+}
+
+.iwSidebar ul.iwMenu > .active > a,
+.iwSidebar ul.iwMenu > li a:hover {
+    text-decoration: none;
+    color: #fff;
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid #0a0c0e;
+    background: rgba(0,0,0,.25);
+    filter: none;
+    text-shadow: 0 1px 1px #000;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.45), inset 0 0 1px rgba(0,0,0,0.25);
+       -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,0.45), inset 0 0 1px rgba(0,0,0,0.25);
+            box-shadow: inset 0 1px 1px rgba(0,0,0,0.45), inset 0 0 1px rgba(0,0,0,0.25);
+    -webkit-border-radius: 0;
+       -moz-border-radius: 0;
+            border-radius: 0;
+}
+
+/* APP SEARCHER
+----------------------------------------------------------- */
+.iwAppSearcher {
+    margin-top:10px;
+}
+.iwAppSearcher input[type=text] {
+    font-size: 12px;
+    line-height: 18px;
+    border-radius: 4px 0 0 4px;
+    padding: 5px 10px 4px;
+    border: 0;
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.7) inset, 0 1px 0 rgba(255,255,255,0.2);
+    background-color: #222222;
+    width:130px;
+    margin-left:10px;
+    color:#999;
+}
+
+.iwAppSearcher button {
+    border: 0;
+    padding: 5px 10px 4px;
+    border-radius: 0 4px 4px 0;
+    box-shadow: -2px 2px 3px rgba(0,0,0,0.7) inset, 0 1px 0 rgba(255,255,255,0.2);
+    background: #222222;
+}
+
+.iwAppSearcher button:hover {
+    background: #111;
+}
+
+.iwAppSearcher button i {
+    text-shadow: none;
+    color:#999;
+}
+
+/* SLIDER
+----------------------------------------------------------- */
+.iwBody tr .iwSlider {
+    width:10px;
+    background: #333 url("../images/css-sprite.png") no-repeat;
+    background-position: -66px center;
+}
+
+/* MAIN
+----------------------------------------------------------- */
+.iwBody tr .iwMain {
+    vertical-align: top;
+    padding-left: 20px;
+    padding-right:20px;
+    padding-top:20px;
+    font-size:12px !important;
+}
+
+/* MEDIA QUERIES
+----------------------------------------------------------- */
+@media (max-width: 979px) {
+    body {padding-top:0;}
+}

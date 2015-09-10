@@ -1,0 +1,12 @@
+
+
+2014.10.21 Version bi.1.2
+* Uso de cache y tablas xyz en graphCompare. Mejoras varias
+* Uso de cache y tablas xyz en groupedGraph. Mejoras varias
+* Renombre de graphCompare.php y groupedGraph.php
+* Creación de db.php para separar todas los SQL
+* Eliminación de home2.php, home3.php, demo2.php, runBI.php, runAgregated.php, LL.php, runSplit.php, statLastDay.php, windows.php, run.php, crontab.php
+* Creación de funciones extras para eliminar todo SQL en funciones excepto en db.php
+* Eliminación de actualización de tablas obsoletas en homesc.php (configuración)
+* Reincorporación de librería /calendar
+* Eliminación de connect.php para ser parte de db.php

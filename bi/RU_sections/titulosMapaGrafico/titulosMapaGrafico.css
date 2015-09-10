@@ -1,0 +1,29 @@
+#tituloMapa {
+
+	width: 48%;
+	padding: 5px;
+	border-style: solid;
+	border-color: #2196F3;
+	border-width: 1px;
+	background-color: #2196F3;
+	color: #FFFFFF;
+	margin-left: 25px;
+    margin-right: 10px;
+    font-size: 9pt;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#tituloGrafico {
+
+	width: 48%;
+	padding: 5px;
+	border-style: solid;
+	border-color: #2196F3;
+	border-width: 1px;
+	background-color: #2196F3;
+	color: #FFFFFF;
+	font-size: 9pt;
+	font-weight: bold;
+	text-transform: uppercase;
+}

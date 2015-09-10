@@ -1,0 +1,1 @@
+.tab ul.menu li.tabsMenu
